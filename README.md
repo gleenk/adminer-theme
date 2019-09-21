@@ -3,7 +3,7 @@ Adminer Theme
 
 Adminer css theme for the best php+mysql admin. Here's what it looks like:
 
-<img src="http://pappu687.github.io/screenshots/adminer-screenshot.png" width="650px" />
+![Screenshot](screenshot.png)
 
 ### Installation
 Copy adminer.css to the folder where adminer.php is located. Voila.
